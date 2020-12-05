@@ -25,5 +25,6 @@ import { ShoppingAddedComponent } from './shopping/shoping-added/shopping-added.
     ShoppingAddedComponent
    ],
   bootstrap:    [ AppComponent ]
+  
 })
 export class AppModule { }
