@@ -26,6 +26,7 @@ import { DropdownDirective } from './shared/dropdown.directive';
     ShoppingAddedComponent,
     DropdownDirective
    ],
+  providers: [],
   bootstrap:    [ AppComponent ]
   
 })
